@@ -1,0 +1,30 @@
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\bin\Debug\net7.0\EXERCICIO_005.exe
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\bin\Debug\net7.0\EXERCICIO_005.deps.json
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\bin\Debug\net7.0\EXERCICIO_005.runtimeconfig.json
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\bin\Debug\net7.0\EXERCICIO_005.dll
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\bin\Debug\net7.0\EXERCICIO_005.pdb
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.csproj.AssemblyReference.cache
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.AssemblyInfoInputs.cache
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.AssemblyInfo.cs
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.dll
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\obj\Debug\net7.0\refint\EXERCICIO_005.dll
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.pdb
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.genruntimeconfig.cache
+C:\Users\Samuel Pace\Desktop\EXERCICIO_005\obj\Debug\net7.0\ref\EXERCICIO_005.dll
+C:\Users\Gabriel\Desktop\EXERCICIO_005\bin\Debug\net7.0\EXERCICIO_005.exe
+C:\Users\Gabriel\Desktop\EXERCICIO_005\bin\Debug\net7.0\EXERCICIO_005.deps.json
+C:\Users\Gabriel\Desktop\EXERCICIO_005\bin\Debug\net7.0\EXERCICIO_005.runtimeconfig.json
+C:\Users\Gabriel\Desktop\EXERCICIO_005\bin\Debug\net7.0\EXERCICIO_005.dll
+C:\Users\Gabriel\Desktop\EXERCICIO_005\bin\Debug\net7.0\EXERCICIO_005.pdb
+C:\Users\Gabriel\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.dll
+C:\Users\Gabriel\Desktop\EXERCICIO_005\obj\Debug\net7.0\refint\EXERCICIO_005.dll
+C:\Users\Gabriel\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.pdb
+C:\Users\Gabriel\Desktop\EXERCICIO_005\obj\Debug\net7.0\EXERCICIO_005.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\EXERCICIO_005\obj\Debug\net7.0\ref\EXERCICIO_005.dll
